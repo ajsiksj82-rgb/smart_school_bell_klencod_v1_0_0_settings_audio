@@ -1,0 +1,2 @@
+# smart_school_bell_klencod_v1_0_0_settings_audio
+Flutter project created by KLENCOD IDE
